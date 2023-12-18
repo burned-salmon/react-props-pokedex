@@ -1,0 +1,12 @@
+.Pokedex {
+    display: flex;
+}
+
+.Pokedex-Pokecards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px 50px;
+    max-width: 1000px;
+    margin: auto;
+}
